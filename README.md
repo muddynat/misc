@@ -1,5 +1,4 @@
-# misc
-Password GeneratoR
+# Password GeneratoR
 
 Here's script for a function to generate random passwords using R. You can either make random strings (style = 'rando') or use dictionary words (style = 'words'). Both of these options meet most modern password requirements (e.g., at least 1 uppercase letter, 1 number, 1 special character), but include custamizability in the password length. 
 
